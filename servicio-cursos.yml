@@ -14,11 +14,11 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka
   instance:
-    hostname: 172.21.16.1
+    hostname: 172.22.176.1
     instance-id: instancia1
-#   hostname: 172.21.16.1
+#   hostname: 172.22.176.1
 #   instance-id: instancia2
-#   hostname: 172.21.16.1
+#   hostname: 172.22.176.1
 #   instance-id: instancia3
 server:
   port: 7001
