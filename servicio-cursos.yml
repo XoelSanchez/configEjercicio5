@@ -16,5 +16,9 @@ eureka:
   instance:
     hostname: 172.21.16.1
     instance-id: instancia1
+#   hostname: 172.21.16.1
+#   instance-id: instancia2
+#   hostname: 172.21.16.1
+#   instance-id: instancia3
 server:
   port: 7001
